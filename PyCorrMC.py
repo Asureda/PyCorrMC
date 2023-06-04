@@ -2,7 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 from scipy.optimize import curve_fit
 
-class DataAnalysis:
+class PyCorrMC:
     def function1(self, x):
         # Función 1 para jacknife
         return x
